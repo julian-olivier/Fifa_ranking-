@@ -1,0 +1,41 @@
+{
+  "players": [],
+  "matches": [],
+  "tournaments": [
+    {
+      "id": "t_living_room_cup_1",
+      "name": "Living Room Champions League - Week 3",
+      "date": "2026-09-26",
+      "status": "completed",
+      "winnerId": "p_julian",
+      "runnerUpId": "p_leo",
+      "matches": [
+        {
+          "id": "tm_1",
+          "round": 1,
+          "player1Id": "p_julian",
+          "player2Id": "p_alex",
+          "winnerId": "p_julian",
+          "score": "4-0"
+        },
+        {
+          "id": "tm_2",
+          "round": 1,
+          "player1Id": "p_leo",
+          "player2Id": "p_sam",
+          "winnerId": "p_leo",
+          "score": "2-1"
+        },
+        {
+          "id": "tm_3",
+          "round": 2,
+          "player1Id": "p_julian",
+          "player2Id": "p_leo",
+          "winnerId": "p_julian",
+          "score": "3-2"
+        }
+      ]
+    }
+  ],
+  "lastUpdated": "2026-09-28T01:28:57.934Z"
+}
